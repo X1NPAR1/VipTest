@@ -1,0 +1,7 @@
+﻿<VIPTestConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Süre_Gün>3</Süre_Gün>
+	<Süre_Saat>0</Süre_Saat>
+	<Süre_Dakika>0</Süre_Dakika>
+	<VIP_YetkiAdı>VIP</VIP_YetkiAdı>
+	<DiscordWebhookURL>https://discord.com/api/webhooks/SENIN_WEBHOOK</DiscordWebhookURL>
+</VIPTestConfig>

@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MSI\\source\\repos\\VipTestPlugin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A76E0B-7CB3-4587-9D8A-0A5A5188BD5D}|VipTestPlugin\\VipTestPlugin.csproj|C:\\Users\\MSI\\source\\repos\\VipTestPlugin\\viptestplugin\\viptestplugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4A76E0B-7CB3-4587-9D8A-0A5A5188BD5D}|VipTestPlugin\\VipTestPlugin.csproj|solutionrelative:viptestplugin\\viptestplugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A76E0B-7CB3-4587-9D8A-0A5A5188BD5D}|VipTestPlugin\\VipTestPlugin.csproj|C:\\Users\\MSI\\source\\repos\\VipTestPlugin\\viptestplugin\\vipusagemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4A76E0B-7CB3-4587-9D8A-0A5A5188BD5D}|VipTestPlugin\\VipTestPlugin.csproj|solutionrelative:viptestplugin\\vipusagemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A76E0B-7CB3-4587-9D8A-0A5A5188BD5D}|VipTestPlugin\\VipTestPlugin.csproj|C:\\Users\\MSI\\source\\repos\\VipTestPlugin\\viptestplugin\\webhooksender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4A76E0B-7CB3-4587-9D8A-0A5A5188BD5D}|VipTestPlugin\\VipTestPlugin.csproj|solutionrelative:viptestplugin\\webhooksender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A76E0B-7CB3-4587-9D8A-0A5A5188BD5D}|VipTestPlugin\\VipTestPlugin.csproj|C:\\Users\\MSI\\source\\repos\\VipTestPlugin\\viptestplugin\\vipdatamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4A76E0B-7CB3-4587-9D8A-0A5A5188BD5D}|VipTestPlugin\\VipTestPlugin.csproj|solutionrelative:viptestplugin\\vipdatamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A76E0B-7CB3-4587-9D8A-0A5A5188BD5D}|VipTestPlugin\\VipTestPlugin.csproj|c:\\users\\msi\\source\\repos\\viptestplugin\\viptestplugin\\viptestcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4A76E0B-7CB3-4587-9D8A-0A5A5188BD5D}|VipTestPlugin\\VipTestPlugin.csproj|solutionrelative:viptestplugin\\viptestcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VIPUsageManager.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\VipTestPlugin\\VipTestPlugin\\VIPUsageManager.cs",
+              "RelativeDocumentMoniker": "VipTestPlugin\\VIPUsageManager.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\VipTestPlugin\\VipTestPlugin\\VIPUsageManager.cs",
+              "RelativeToolTip": "VipTestPlugin\\VIPUsageManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T23:10:59.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VIPTestPlugin.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\VipTestPlugin\\VipTestPlugin\\VIPTestPlugin.cs",
+              "RelativeDocumentMoniker": "VipTestPlugin\\VIPTestPlugin.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\VipTestPlugin\\VipTestPlugin\\VIPTestPlugin.cs",
+              "RelativeToolTip": "VipTestPlugin\\VIPTestPlugin.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T22:50:20.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WebhookSender.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\VipTestPlugin\\VipTestPlugin\\WebhookSender.cs",
+              "RelativeDocumentMoniker": "VipTestPlugin\\WebhookSender.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\VipTestPlugin\\VipTestPlugin\\WebhookSender.cs",
+              "RelativeToolTip": "VipTestPlugin\\WebhookSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T22:50:09.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VIPDataManager.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\VipTestPlugin\\VipTestPlugin\\VIPDataManager.cs",
+              "RelativeDocumentMoniker": "VipTestPlugin\\VIPDataManager.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\VipTestPlugin\\VipTestPlugin\\VIPDataManager.cs",
+              "RelativeToolTip": "VipTestPlugin\\VIPDataManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T22:50:02.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VipTestCommand.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\VipTestPlugin\\VipTestPlugin\\VipTestCommand.cs",
+              "RelativeDocumentMoniker": "VipTestPlugin\\VipTestCommand.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\VipTestPlugin\\VipTestPlugin\\VipTestCommand.cs",
+              "RelativeToolTip": "VipTestPlugin\\VipTestCommand.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T22:49:50.789Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

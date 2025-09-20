@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36212.18 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VipTestPlugin", "VipTestPlugin\VipTestPlugin.csproj", "{B4A76E0B-7CB3-4587-9D8A-0A5A5188BD5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4A76E0B-7CB3-4587-9D8A-0A5A5188BD5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4A76E0B-7CB3-4587-9D8A-0A5A5188BD5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4A76E0B-7CB3-4587-9D8A-0A5A5188BD5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4A76E0B-7CB3-4587-9D8A-0A5A5188BD5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5D5050B-3D4B-4063-B4B4-F1EE5A91C591}
+	EndGlobalSection
+EndGlobal
